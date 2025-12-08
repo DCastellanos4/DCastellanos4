@@ -27,13 +27,8 @@ Soy un desarrollador en formación apasionado por crear soluciones web eficiente
 
 ---
 
-### 🚀 Qué estoy haciendo ahora
 
-* 🌱 **Aprendiendo:** Profundizando en **Diseño Web y UX/UI** para que mis aplicaciones no solo funcionen bien, sino que se sientan bien.
-* 🎯 **Objetivo:** Crear un portafolio sólido de aplicaciones Full Stack.
-* ⚡ **Dato curioso:** Mi pasión por el deporte me llevó a desarrollar software para gestión deportiva.
 
----
 
 ### 🏆 Proyecto Destacado: CV Aranjuez Manager
 
