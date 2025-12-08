@@ -45,7 +45,7 @@ Una **Web App Progresiva (PWA)** completa para la gestión de resultados y admin
 * **La Solución:** Una arquitectura **JAMstack** (Serverless) con panel de administración privado y base de datos en tiempo real.
 * **Tecnologías:** HTML/JS Vanilla + **Supabase** (PostgreSQL/Auth) + Netlify + RLS Security.
 
-🔗 **[Ver la Web en vivo](https://cvaranjuez.netlify.app)**
+🔗 **[Ver la Web en vivo](https://clubvoleibolaranjuez.netlify.app/)**
 *(El código fuente es privado por motivos de propiedad intelectual y seguridad).*
 
 ---
