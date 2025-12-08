@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hola, soy [DCastellanos4] 👋
 
-<!--
-**DCastellanos4/DCastellanos4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy trabajando en una **WebApp de Gestión Deportiva** para el Club Voleibol Aranjuez.
 
-Here are some ideas to get you started:
+#### 🏐 Proyecto Destacado: CV Aranjuez Manager
+Una aplicación web completa para la gestión de resultados y administración del club.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Ver Demo en vivo:** [https://cvaranjuez.netlify.app](https://cvaranjuez.netlify.app)
+* **Estado:** 🔒 Código Privado (Propiedad del cliente)
+
+**🛠 Tecnologías usadas:**
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+* **Backend / DB:** Supabase (PostgreSQL + Auth)
+* **Hosting:** Netlify
+* **Seguridad:** Row Level Security (RLS) y Netlify Identity
+
+**✨ Características principales:**
+* Panel de administración protegido con Login.
+* Gestión de resultados en tiempo real.
+* Sistema de seguridad para evitar pérdida de datos.
+* Diseño Responsive adaptado a móviles.
+
+---
+*(Aquí puedes poner una captura de pantalla bonita de tu web)*
