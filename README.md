@@ -3,6 +3,13 @@
 
 Soy un desarrollador en formación apasionado por crear soluciones web eficientes y escalables. Me encanta combinar la lógica del **Backend** con la creatividad del **Frontend**. Actualmente, estoy construyendo proyectos personales para llevar mis habilidades al siguiente nivel.
 
+<div align="center">
+  <a href="https://dcastellanos4.github.io/">
+    <img src="https://img.shields.io/badge/👾_PRESS_START-VISITAR_PORTFOLIO_8--BIT-209cee?style=for-the-badge&labelColor=212529" alt="Portfolio NES Style">
+  </a>
+</div>
+<br>
+
 ---
 
 ### 🛠️ Tech Stack & Herramientas
@@ -27,9 +34,6 @@ Soy un desarrollador en formación apasionado por crear soluciones web eficiente
 
 ---
 
-
-
-
 ### 🏆 Proyecto Destacado: CV Aranjuez Manager
 
 > *Como jugador de voleibol, detecté una necesidad en mi club y decidí solucionarla con código.*
@@ -53,3 +57,10 @@ Cuando no estoy peleándome con un error de sintaxis, me encontrarás:
 * 🍿 **En el sofá:** Disfrutando de buenas series y cómics.
 
 ---
+
+<div align="center">
+    <p>¿Quieres contactar conmigo o ver mis proyectos en detalle?</p>
+    <a href="https://dcastellanos4.github.io/">
+        <img src="https://img.shields.io/badge/🌐_Web_Personal-dcastellanos4.github.io-success?style=flat&logo=github" alt="Web Personal">
+    </a>
+</div>
