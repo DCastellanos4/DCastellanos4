@@ -22,7 +22,7 @@ Soy un desarrollador en formación apasionado por crear soluciones web eficiente
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,js,html,css,supabase,aws,wordpress,figma,git,netlify,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,java,js,html,css,supabase,aws,wordpress,figma,git,github&theme=dark" />
   </a>
 </p>
 
