@@ -10,7 +10,7 @@ Soy un desarrollador en formación apasionado por crear soluciones web eficiente
 </div>
 <br>
 <div align="center">
-<a href="https://drive.google.com/file/d/1aguKmenpRQSYSwTQmyYIZHvJTPBErabX/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1DxOES_qWTK30OoPrDa-p6wlWIwrb5tE3/view?usp=sharing">
   <img src="https://img.shields.io/badge/Curriculum_Vitae-202327?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
 </a>
 <div>
