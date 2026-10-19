@@ -26,31 +26,6 @@ Soy un desarrollador en formación apasionado por crear soluciones web eficiente
   </a>
 </p>
 
----
-
----
-
-### 🏆 Proyecto Destacado: CV Aranjuez Manager
-
-> *Como jugador de voleibol, detecté una necesidad en mi club y decidí solucionarla con código.*
-
-Una **Web App Progresiva (PWA)** completa para la gestión de resultados y administración del Club Voleibol Aranjuez.
-
-* **El Problema:** El club necesitaba actualizar resultados en tiempo real sin costes mensuales de mantenimiento.
-* **La Solución:** Una arquitectura **JAMstack** (Serverless) con panel de administración privado y base de datos en tiempo real.
-* **Tecnologías:** HTML/JS Vanilla + **Supabase** (PostgreSQL/Auth) + Netlify + RLS Security.
-
-🔗 **[Ver la Web en vivo](https://clubvoleibolaranjuez.netlify.app/)**
-*(El código fuente es privado por motivos de propiedad intelectual y seguridad).*
-
----
-
-### 👾 Fuera del código
-
-Cuando no estoy peleándome con un error de sintaxis, me encontrarás:
-* 🏐 **En la cancha:** Jugando al voleibol (¡de ahí salió mi mejor proyecto!).
-* 🎮 **En el PC:** Jugando videojuegos.
-* 🍿 **En el sofá:** Disfrutando de buenas series y cómics.
 
 ---
 
