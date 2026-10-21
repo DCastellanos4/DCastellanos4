@@ -37,10 +37,10 @@ Passionate about robust software engineering, clean architecture, and modern clo
 
 ---
 
-### GitHub Stats & Metrics
+### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DCastellanos4/DCastellanos4/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/DCastellanos4/DCastellanos4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 <div align="center">
