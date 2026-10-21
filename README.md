@@ -1,37 +1,51 @@
-# Hola, soy DCastellanos4 👋
-### Estudiante de Desarrollo de Aplicaciones Web (DAW) 💻
+# Hi there, I'm David Castellanos 👋
 
-Soy un desarrollador en formación apasionado por crear soluciones web eficientes y escalables. Me encanta combinar la lógica del **Backend** con la creatividad del **Frontend**. Actualmente, estoy construyendo proyectos personales para llevar mis habilidades al siguiente nivel.
+### Software Developer & QA Automation Engineer | Cloud & Full Stack
+
+Passionate about robust software engineering, clean architecture, and modern cloud ecosystems. I combine a strong foundation in **QA Automation & Shift-Left testing** with **Full Stack & Cloud development (.NET, Node.js, React/Angular)**, integrating agentic AI workflows and automated pipelines into the software development lifecycle (SDLC).
 
 <div align="center">
   <a href="https://dcastellanos4.github.io/">
-    <img src="https://img.shields.io/badge/👾_PRESS_START-VISITAR_PORTFOLIO_8--BIT-209cee?style=for-the-badge&labelColor=212529" alt="Portfolio NES Style">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-209cee?style=for-the-badge&labelColor=212529" alt="Portfolio NES Style">
   </a>
 </div>
 <br>
 <div align="center">
-<a href="https://drive.google.com/file/d/1DxOES_qWTK30OoPrDa-p6wlWIwrb5tE3/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Curriculum_Vitae-202327?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
-</a>
-<div>
+  <a href="https://drive.google.com/file/d/1DxOES_qWTK30OoPrDa-p6wlWIwrb5tE3/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View_Curriculum_Vitae-202327?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
+  </a>
+</div>
 
 ---
 
-
-### 🛠️ Tech Stack & Herramientas
+### Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,js,html,css,supabase,aws,wordpress,figma,git,github&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,react,angular,tailwind,aws,azure,docker,git,github,supabase,linux&theme=dark" />
 </p>
 
+- **Backend & Cloud:** C#, .NET Core, Node.js, Express, PHP, AWS, Azure, Supabase, Docker, Nginx.
+- **Frontend:** React, Angular, Tailwind CSS, TypeScript, JavaScript.
+- **Quality & Testing:** Playwright, Karate DSL, Katalon Studio, Appium, SonarQube, E2E & Load Testing.
+- **AI & Automation:** Model Context Protocol (MCP), AI Agents, GitHub Actions CI/CD.
 
 ---
 
+### Featured Projects
+
+- **[Enlace Mental](https://github.com/DCastellanos4/enlace-mental):** DAW Final Degree Project (TFG). A real-time multiplayer word convergence web game built with **React, Node.js, WebSockets (Socket.io), and SQLite**. Containerized with Docker, featuring fuzzy string matching (Levenshtein distance) and procedural audio generation via Web Audio API.
+
+---
+
+### GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DCastellanos4/DCastellanos4/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 <div align="center">
-    <p>¿Quieres contactar conmigo o ver mis proyectos en detalle?</p>
+    <p>Let's connect and build something amazing together!</p>
     <a href="https://dcastellanos4.github.io/">
-        <img src="https://img.shields.io/badge/🌐_Web_Personal-dcastellanos4.github.io-success?style=flat&logo=github" alt="Web Personal">
+        <img src="https://img.shields.io/badge/🌐_Personal_Website-dcastellanos4.github.io-success?style=flat&logo=github" alt="Web Personal">
     </a>
 </div>
