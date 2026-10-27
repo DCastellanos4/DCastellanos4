@@ -35,6 +35,7 @@ Passionate about robust software engineering, clean architecture, and modern clo
 
 - **[Enlace Mental](https://github.com/DCastellanos4/enlace-mental):** DAW Final Degree Project (TFG). A real-time multiplayer word convergence web game built with **React, Node.js, WebSockets (Socket.io), and SQLite**. Containerized with Docker, featuring fuzzy string matching (Levenshtein distance) and procedural audio generation via Web Audio API.
 
+- **[F.R.I.D.A.Y Bot](https://github.com/DCastellanos4/F.R.I.D.A.Y-bot):** 24/7 personal AI assistant on WhatsApp powered by local LLMs (Ollama) and Node.js. Features persistent memory (Second Brain), price tracking, web/YouTube summarization, automated briefings, and server monitoring via a custom REST API.
 ---
 
 ### GitHub Stats
