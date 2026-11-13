@@ -1,8 +1,10 @@
 # Hi there, I'm David Castellanos 👋
 
-### Software Developer & QA Automation Engineer | Cloud & Full Stack
+### Full Stack Developer & Multicloud | Former QA Automation Engineer
 
-Passionate about robust software engineering, clean architecture, and modern cloud ecosystems. I combine a strong foundation in **QA Automation & Shift-Left testing** with **Full Stack & Cloud development (.NET, Node.js, React/Angular)**, integrating agentic AI workflows and automated pipelines into the software development lifecycle (SDLC).
+I build cloud-hosted applications with **Node.js, .NET and Java** on the backend and **React and Angular** on the frontend. I started in QA automation on enterprise retail platforms, so I care about clean architecture, automated pipelines and shipping software that is tested before it reaches production.
+
+Based in Madrid, Spain · Open to international relocation · Spanish (native) · English (B2)
 
 <div align="center">
   <a href="https://dcastellanos4.github.io/">
@@ -11,34 +13,60 @@ Passionate about robust software engineering, clean architecture, and modern clo
 </div>
 <br>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1DxOES_qWTK30OoPrDa-p6wlWIwrb5tE3/view?usp=sharing">
+  <a href="https://dcastellanos4.github.io/docs/CV%20David%20Castellanos%20-%20English.pdf">
     <img src="https://img.shields.io/badge/View_Curriculum_Vitae-202327?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
   </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://linkedin.com/in/david-castellanos-lopez">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+ 
 </div>
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,react,angular,tailwind,aws,azure,docker,git,github,supabase,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,react,angular,tailwind,java,spring,postgres,redis,aws,azure,docker,githubactions,git,github,supabase,linux&theme=dark" />
 </p>
 
-- **Backend & Cloud:** C#, .NET Core, Node.js, Express, PHP, AWS, Azure, Supabase, Docker, Nginx.
-- **Frontend:** React, Angular, Tailwind CSS, TypeScript, JavaScript.
-- **Quality & Testing:** Playwright, Karate DSL, Katalon Studio, Appium, SonarQube, E2E & Load Testing.
-- **AI & Automation:** Model Context Protocol (MCP), AI Agents, GitHub Actions CI/CD.
+- **Backend:** Node.js, Express, C#, .NET / ASP.NET Core, Java, Spring Boot, WebSockets (Socket.io)
+- **Frontend:** React, Angular, Vue.js, TypeScript, JavaScript, Tailwind CSS
+- **Data:** PostgreSQL, SQL Server, SQLite, Redis
+- **Cloud & DevOps:** Oracle Cloud, Docker, Nginx, Linux, GitHub Actions, Jenkins, GitLab CI
+- **AI:** LLM integration (Groq, OpenAI, Ollama), RAG, Model Context Protocol (MCP)
+- **Testing:** Playwright, Karate DSL, Cucumber, JMeter, Gatling, SonarQube
+
+**Currently learning:** AWS and Microsoft Azure (certification track).
 
 ---
 
 ### Featured Projects
 
-- **[Enlace Mental](https://github.com/DCastellanos4/enlace-mental):** DAW Final Degree Project (TFG). A real-time multiplayer word convergence web game built with **React, Node.js, WebSockets (Socket.io), and SQLite**. Containerized with Docker, featuring fuzzy string matching (Levenshtein distance) and procedural audio generation via Web Audio API.
+- **[F.R.I.D.A.Y Bot](https://github.com/DCastellanos4/F.R.I.D.A.Y-bot)** *(in development)*: self-hosted personal AI assistant controlled through WhatsApp, running on Oracle Cloud. Multi-provider LLM tool calling (Groq, OpenAI, Ollama), hybrid RAG, MCP servers, persistent memory and automated briefings. Built on a hexagonal architecture with **Node.js, Redis, BullMQ and SQLite**, with a GitHub Actions CI/CD pipeline and automated quality gates over a ~800-test suite.
 
-- **[F.R.I.D.A.Y Bot](https://github.com/DCastellanos4/F.R.I.D.A.Y-bot):** 24/7 personal AI assistant on WhatsApp powered by local LLMs (Ollama) and Node.js. Features persistent memory (Second Brain), price tracking, web/YouTube summarization, automated briefings, and server monitoring via a custom REST API.
+- **[Enlace Mental](https://github.com/DCastellanos4/enlace-mental)**: my DAW final project. A real-time multiplayer word game where players try to think of the same word. Built with **React 19, Node.js, Socket.io and SQLite**, with JWT authentication, near-match detection (Levenshtein distance) and Docker Compose + Nginx deployment. *Public cloud demo coming soon.*
+
 ---
 
-### GitHub Stats
+### What I'm working on
+
+- Master in Full Stack Development & Cloud Architectures (Tajamar Tech, 2026-2027)
+- Preparing AWS Developer Associate, Azure Developer Associate, Power Platform Developer and GitHub Agentic AI Developer certifications
+- Deploying a public demo of Enlace Mental on the cloud
+
+---
+
+### Background
+
+Before moving into full stack development, I worked as a **QA Automation Engineer** on El Corte Inglés and Mango projects: API regression with Karate DSL, load testing with JMeter and Gatling, and Jenkins pipelines. That experience shapes how I write code today: test early, automate the pipeline, keep the architecture clean.
+
+---
+
+### GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DCastellanos4/DCastellanos4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
